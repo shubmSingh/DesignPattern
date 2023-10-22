@@ -1,4 +1,4 @@
-package StructuralPattern;
+package Structural_Pattern.Adaptor;
 
 import java.util.ArrayList;
 import java.util.List;

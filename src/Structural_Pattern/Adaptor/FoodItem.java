@@ -1,8 +1,8 @@
-package StructuralPattern;
+package Structural_Pattern.Adaptor;
 
-public class GroceryProducts implements GroceryItem {
+public class FoodItem implements Item {
     @Override
-    public String getName() {
+    public String getItemName() {
         return null;
     }
 
@@ -12,7 +12,7 @@ public class GroceryProducts implements GroceryItem {
     }
 
     @Override
-    public String getStoreName() {
+    public String getRestaurantName() {
         return null;
     }
 }

@@ -1,4 +1,4 @@
-package StructuralPattern;
+package Structural_Pattern.Adaptor;
 
 public class Main {
     public static void main(String[] args) {

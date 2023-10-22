@@ -1,4 +1,4 @@
-package StructuralPattern;
+package Structural_Pattern.Adaptor;
 
 public class GroceryItemAdaptor implements Item {
     private GroceryItem item;
