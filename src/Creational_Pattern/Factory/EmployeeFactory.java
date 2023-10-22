@@ -1,4 +1,4 @@
-package Factory;
+package Creational_Pattern.Factory;
 
 public class EmployeeFactory {
     public static Employee getEmployee(String empType){

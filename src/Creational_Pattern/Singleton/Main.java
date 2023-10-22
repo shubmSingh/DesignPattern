@@ -1,4 +1,4 @@
-package Singleton;
+package Creational_Pattern.Singleton;
 
 import java.io.*;
 import java.lang.reflect.Constructor;
@@ -43,7 +43,7 @@ public class Main {
         LazySingleton lazySingleton =(LazySingleton)constructor.newInstance();
         LazySingleton lazySingleton1 = LazySingleton.getLazySingleton();
         System.out.println("Reflected HashCode :"+lazySingleton.hashCode());
-        System.out.println("Singleton hashcode :"+lazySingleton1.hashCode());
+        System.out.println("Creational_Pattern.Singleton hashcode :"+lazySingleton1.hashCode());
 
 
     }

@@ -1,6 +1,5 @@
-package Singleton;
+package Creational_Pattern.Singleton;
 
-import java.io.Serial;
 import java.io.Serializable;
 
 public class SerializableSingleton implements Serializable {

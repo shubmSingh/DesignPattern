@@ -1,4 +1,4 @@
-package Singleton;
+package Creational_Pattern.Singleton;
 
 import java.io.Serializable;
 

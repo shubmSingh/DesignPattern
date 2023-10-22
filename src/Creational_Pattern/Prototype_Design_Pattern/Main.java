@@ -1,4 +1,4 @@
-package Prototype_Design_Pattern;
+package Creational_Pattern.Prototype_Design_Pattern;
 
 public class Main {
     public static void main(String[] args) throws CloneNotSupportedException {

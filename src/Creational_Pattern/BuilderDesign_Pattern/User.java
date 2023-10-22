@@ -1,4 +1,4 @@
-package BuilderDesign_Pattern;
+package Creational_Pattern.BuilderDesign_Pattern;
 
 public class User {
     private final String userId;

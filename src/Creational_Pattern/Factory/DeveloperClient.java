@@ -1,4 +1,4 @@
-package Factory;
+package Creational_Pattern.Factory;
 
 public class DeveloperClient {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Singleton;
+package Creational_Pattern.Singleton;
 
 public class MultiThreadSingleton {
     private static MultiThreadSingleton multiThreadSingleton=null;

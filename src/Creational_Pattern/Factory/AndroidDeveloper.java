@@ -1,4 +1,4 @@
-package Factory;
+package Creational_Pattern.Factory;
 
 public class AndroidDeveloper implements Employee{
     public int salary() {

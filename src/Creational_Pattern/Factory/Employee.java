@@ -1,4 +1,4 @@
-package Factory;
+package Creational_Pattern.Factory;
 
 public interface Employee {
     int salary();

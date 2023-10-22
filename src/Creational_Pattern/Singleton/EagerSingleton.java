@@ -1,4 +1,4 @@
-package Singleton;
+package Creational_Pattern.Singleton;
 
 public class EagerSingleton {
     private static final EagerSingleton eagerSingleton = new EagerSingleton();
