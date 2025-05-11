@@ -10,6 +10,5 @@ public class DeveloperClient {
         Employee employee1 = EmployeeFactory.getEmployee("ANDROID DEVELOPER");
         System.out.println(employee1.salary());
 
-
     }
 }
